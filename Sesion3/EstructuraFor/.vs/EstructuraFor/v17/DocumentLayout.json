@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion3\\EstructuraFor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99ECEC8D-F90F-49B6-86C9-BED471EA6A26}|EstructuraFor.csproj|d:\\codigo\\bc#\\modulo\\semana1\\clase1\\bootcampcsharpc1\\sesion3\\estructurafor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ECEC8D-F90F-49B6-86C9-BED471EA6A26}|EstructuraFor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion3\\EstructuraFor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion3\\EstructuraFor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:31:57.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
