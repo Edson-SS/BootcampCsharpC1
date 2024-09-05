@@ -20,7 +20,7 @@ double Sumar4 (double n1,double n2)
 Func<int,int,int> SumaLamda = (n1,n2) => (n1+n2);
 
 Sumar2();
-Console.WriteLine($"Sumando 1 con void {resultado}");
+Console.WriteLine($"Sumando 1 con void global {resultado}");
 Sumar(5, 6);
 Console.WriteLine($"Sumando 2 con void {resultado}");
 Console.WriteLine($"Sumando 3 con return {SumaLamda(5, 6)}");
