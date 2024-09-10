@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion5\\codigo2024Clase4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A94976C-6E26-4037-9F59-53D693E6490A}|..\\Demo03\\Demo03.csproj|d:\\codigo\\bc#\\modulo\\semana1\\clase1\\bootcampcsharpc1\\sesion5\\demo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8FC6E3B9-51EE-4369-81AD-3DF165F35549}|..\\Demo02\\Demo02.csproj|d:\\codigo\\bc#\\modulo\\semana1\\clase1\\bootcampcsharpc1\\sesion5\\demo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,18 +26,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion5\\Demo03\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Demo03\\Program.cs",
+              "ToolTip": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion5\\Demo03\\Program.cs",
+              "RelativeToolTip": "..\\Demo03\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:18:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion5\\Demo02\\Program.cs",
               "RelativeDocumentMoniker": "..\\Demo02\\Program.cs",
-              "ToolTip": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion5\\Demo02\\Program.cs*",
-              "RelativeToolTip": "..\\Demo02\\Program.cs*",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwEIAAAARAAAAAAAAAA==",
+              "ToolTip": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion5\\Demo02\\Program.cs",
+              "RelativeToolTip": "..\\Demo02\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T02:04:57.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion5\\codigo2024Clase4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
