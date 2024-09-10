@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion5\\codigo2024Clase4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC6E3B9-51EE-4369-81AD-3DF165F35549}|..\\Demo02\\Demo02.csproj|d:\\codigo\\bc#\\modulo\\semana1\\clase1\\bootcampcsharpc1\\sesion5\\demo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810D691E-4DC0-4259-979C-A5C1D05FE02D}|codigo2024Clase4.csproj|d:\\codigo\\bc#\\modulo\\semana1\\clase1\\bootcampcsharpc1\\sesion5\\codigo2024clase4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810D691E-4DC0-4259-979C-A5C1D05FE02D}|codigo2024Clase4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion5\\Demo02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Demo02\\Program.cs",
+              "ToolTip": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion5\\Demo02\\Program.cs*",
+              "RelativeToolTip": "..\\Demo02\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:04:57.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion5\\codigo2024Clase4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Codigo\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion5\\codigo2024Clase4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA/wCIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:29:01.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
